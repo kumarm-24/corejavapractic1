@@ -10,13 +10,13 @@ package net.konic.corejava.Loops;
 	        System.out.print("Enter a number: ");
 	        int num = sc.nextInt();
 
-	        int sum = 0;      // to store total
-	        int digit;        // to store each digit
+	        int sum = 0;      
+	        int digit;        
 
 	        while (num > 0) {
-	            digit = num % 10;   // get last digit
-	            sum = sum + digit;  // add to sum
-	            num = num / 10;     // remove last digit
+	            digit = num % 10;   
+	            sum = sum + digit;  
+	            num = num / 10;     
 	        }
 
 	        System.out.println("Sum of digits = " + sum);
