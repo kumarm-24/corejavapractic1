@@ -1,6 +1,6 @@
 package net.konic.corejava.classobjects;
 
-public class CollageStudents {
+public class CollageStudent {
     public static void main(String[] args) {
         
         String collageName = "Krishna Chaithanya";
@@ -10,7 +10,7 @@ public class CollageStudents {
         int sandNumber = 226464;
         String totalYears = "2022 to 2025";
         
-        CollageStudents c = new CollageStudents(); 
+        CollageStudent c = new CollageStudent(); 
         
         System.out.println("/------- STUDENT INFORMATION --------/");
         System.out.println("College Name: " + collageName);
