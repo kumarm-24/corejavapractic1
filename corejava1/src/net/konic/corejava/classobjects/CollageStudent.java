@@ -7,7 +7,7 @@ public class CollageStudent {
         String studentName = "Kumar";
         String group = "BCA (Bachelor of Computer Applications)";
         String section = "Y1";
-        int sandNumber = 226464;
++ 
         String totalYears = "2022 to 2025";
         
         CollageStudent c = new CollageStudent(); 
