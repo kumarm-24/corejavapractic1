@@ -3,11 +3,12 @@ package net.konic.corejava.abstraction;
 public class MainVechileee {
 	    public static void main(String[] args) {
 	        
-	        Car car = new Car();
+	        Cars cars = new Cars();
 	        Bike bike = new Bike();
 
-	        car.start();
+	        cars.start();
 	        bike.start();
+	        
 	    }
 	}
 

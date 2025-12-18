@@ -8,4 +8,10 @@ public class Car  extends Vechile {
 	void VechileColur() {
 		System.out.println("Vechile colure : Stelth Black");
 	}
-}
+	public void start() {
+		// TODO Auto-generated method stub
+		
+	}
+	
+	}
+
