@@ -50,7 +50,7 @@ package net.konic.corejava.map;
 
 	        System.out.println("Contains value Sara? " + map.containsValue("Sara"));
 	 
-	        // REMOVE operation
+	        
 
 	        map.remove(104);
 
