@@ -56,7 +56,7 @@ package net.konic.corejava.map;
 
 	        System.out.println("After removing key 104: " + map);
 	 
-	        // SIZE
+	 
 
 	        System.out.println("Size of HashMap: " + map.size());
 	 
