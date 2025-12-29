@@ -8,7 +8,7 @@ package net.konic.corejava.map;
 	 
 	    public static void main(String[] args) {
 	 
-	        // 1️⃣ Default constructor
+	       
 
 	        // No guarantee of order
 
