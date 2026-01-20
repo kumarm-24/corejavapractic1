@@ -5,13 +5,17 @@ public class Employee {
 	    private String name;
 	    private String department;
 
-	    public Employee(int id, String name, String department) {
+	    public Employee(int id, String name, String string) {
 	        this.id = id;
 	        this.name = name;
 	        this.department = department;
 	    }
 
-	    @Override
+	    public Employee(int i, String string) {
+			
+		}
+
+		@Override
 	    public String toString() {
 	        return id + "-" + name + "-" + department;
 	    }
