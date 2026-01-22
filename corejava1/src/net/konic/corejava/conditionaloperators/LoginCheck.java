@@ -1,4 +1,4 @@
-package net.konic.corejava.operators;
+package net.konic.corejava.conditionaloperators;
 
 import java.util.Scanner;
 
@@ -13,7 +13,6 @@ public class LoginCheck {
 	        System.out.print("Enter Password: ");
 	        String password = sc.next();
 
-	        // Logical Operator: &&
 	        if (username.equals("kumar") && password.equals("1234")) {
 	            System.out.println("Login Success!");
 	        } 

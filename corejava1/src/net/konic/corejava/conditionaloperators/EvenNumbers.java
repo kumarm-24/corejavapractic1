@@ -1,4 +1,4 @@
-package net.konic.corejava.operators;
+package net.konic.corejava.conditionaloperators;
 
 public class EvenNumbers {
 	public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package net.konic.corejava.operators;
+package net.konic.corejava.conditionaloperators;
 //Program to explain all Java operators
 import java.util.Scanner;
 

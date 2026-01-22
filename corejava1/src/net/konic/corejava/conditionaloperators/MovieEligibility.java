@@ -1,4 +1,4 @@
-package net.konic.corejava.operators;
+package net.konic.corejava.conditionaloperators;
 
 import java.util.Scanner;
 
